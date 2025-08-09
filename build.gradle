@@ -9,15 +9,11 @@ group = 'com.example'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
-// develop에서 수정
-// 머지 테스트1
-// 로컬에서 Merge 테스트1
 // maven central
 repositories {
 	mavenCentral()
 }
 
-// 두번째 테스트
 dependencies {
 	// tag::actuator[]
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
