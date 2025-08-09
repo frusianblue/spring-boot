@@ -10,6 +10,7 @@ version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
 
+// 머지 테스트1
 // 로컬에서 Merge 테스트1
 // maven central
 repositories {
