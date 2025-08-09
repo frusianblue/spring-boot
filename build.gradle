@@ -9,8 +9,6 @@ group = 'com.example'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
-// 마지막 머지 테스트
-// maven central
 repositories {
 	mavenCentral()
 }
